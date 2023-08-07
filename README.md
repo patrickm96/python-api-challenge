@@ -14,3 +14,4 @@ The following resources were referenced to complete this challenge:
 9. Matplotlib add grid - https://www.w3schools.com/python/matplotlib_grid.asp
 10. Create python function - https://www.programiz.com/python-programming/function
 11. API request loop - Starter code
+12. Suppress .pyc files and _pycache_ folder - https://stackoverflow.com/questions/154443/how-to-avoid-pyc-files
