@@ -1,6 +1,8 @@
 # python-api-challenge
 Module 6
 
+Final code for module 6 challenge is in WeatherPy_final.ipynb and VacationPy_final.ipynb.
+
 The following resources were referenced to complete this challenge:
 
 1. Add today's date - https://stackoverflow.com/questions/32490629/getting-todays-date-in-yyyy-mm-dd-in-python
